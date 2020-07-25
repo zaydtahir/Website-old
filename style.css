@@ -1,0 +1,30 @@
+body {
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#maindiv {
+    color: white;
+    background: antiquewhite;
+    padding: 15px;
+    height: 500px;
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+a {
+    target: "_blank";
+}
+
+h1, h2 {
+    color: black;
+    line-height: 2;
+    text-align: center;
+}
