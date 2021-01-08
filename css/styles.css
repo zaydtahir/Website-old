@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #4cbbb9;
+  color: #045cb3;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #77d8d8;
+  color: #6593F5;
   text-decoration: underline;
 }
 
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #4cbbb9 !important;
+  background-color: #045cb3 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6107,7 +6107,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #77d8d8 !important;
+  background-color: #6c757d !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #4cbbb9 !important;
+  color: #045cb3 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
